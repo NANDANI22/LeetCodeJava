@@ -63,6 +63,7 @@
 | [2287-rearrange-characters-to-make-target-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2299-strong-password-checker-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/2299-strong-password-checker-ii) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/NANDANI22/LeetCodeJava/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2315-count-asterisks](https://github.com/NANDANI22/LeetCodeJava/tree/master/2315-count-asterisks) |
 | [2399-check-distances-between-same-letters](https://github.com/NANDANI22/LeetCodeJava/tree/master/2399-check-distances-between-same-letters) |
 ## Counting
 |  |
