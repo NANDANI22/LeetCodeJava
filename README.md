@@ -13,6 +13,7 @@
 | [0804-unique-morse-code-words](https://github.com/NANDANI22/LeetCodeJava/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1732-find-the-highest-altitude](https://github.com/NANDANI22/LeetCodeJava/tree/master/1732-find-the-highest-altitude) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NANDANI22/LeetCodeJava/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NANDANI22/LeetCodeJava/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -126,4 +127,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NANDANI22/LeetCodeJava/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/NANDANI22/LeetCodeJava/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
