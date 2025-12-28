@@ -17,6 +17,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NANDANI22/LeetCodeJava/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/NANDANI22/LeetCodeJava/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2206-divide-array-into-equal-pairs](https://github.com/NANDANI22/LeetCodeJava/tree/master/2206-divide-array-into-equal-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NANDANI22/LeetCodeJava/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2293-min-max-game](https://github.com/NANDANI22/LeetCodeJava/tree/master/2293-min-max-game) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/NANDANI22/LeetCodeJava/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/NANDANI22/LeetCodeJava/tree/master/0645-set-mismatch) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/NANDANI22/LeetCodeJava/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NANDANI22/LeetCodeJava/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Binary Search
 |  |
