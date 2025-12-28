@@ -22,6 +22,7 @@
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NANDANI22/LeetCodeJava/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2293-min-max-game](https://github.com/NANDANI22/LeetCodeJava/tree/master/2293-min-max-game) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NANDANI22/LeetCodeJava/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2399-check-distances-between-same-letters](https://github.com/NANDANI22/LeetCodeJava/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
@@ -43,6 +44,7 @@
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/NANDANI22/LeetCodeJava/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/NANDANI22/LeetCodeJava/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NANDANI22/LeetCodeJava/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2399-check-distances-between-same-letters](https://github.com/NANDANI22/LeetCodeJava/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/2404-most-frequent-even-element) |
 ## String
@@ -94,6 +96,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NANDANI22/LeetCodeJava/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NANDANI22/LeetCodeJava/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NANDANI22/LeetCodeJava/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,12 +128,14 @@
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/NANDANI22/LeetCodeJava/tree/master/2293-min-max-game) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NANDANI22/LeetCodeJava/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Greedy
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NANDANI22/LeetCodeJava/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NANDANI22/LeetCodeJava/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NANDANI22/LeetCodeJava/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Enumeration
 |  |
 | ------- |
@@ -152,4 +157,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NANDANI22/LeetCodeJava/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
