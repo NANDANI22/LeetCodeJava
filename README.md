@@ -29,6 +29,7 @@
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/NANDANI22/LeetCodeJava/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NANDANI22/LeetCodeJava/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/NANDANI22/LeetCodeJava/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2399-check-distances-between-same-letters](https://github.com/NANDANI22/LeetCodeJava/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/2404-most-frequent-even-element) |
 ## String
@@ -48,6 +49,7 @@
 | [2264-largest-3-same-digit-number-in-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NANDANI22/LeetCodeJava/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/NANDANI22/LeetCodeJava/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2399-check-distances-between-same-letters](https://github.com/NANDANI22/LeetCodeJava/tree/master/2399-check-distances-between-same-letters) |
 ## Counting
 |  |
@@ -56,6 +58,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/NANDANI22/LeetCodeJava/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/NANDANI22/LeetCodeJava/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2404-most-frequent-even-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/2404-most-frequent-even-element) |
 ## Bit Manipulation
 |  |
