@@ -49,5 +49,10 @@
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/NANDANI22/LeetCodeJava/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0852-peak-index-in-a-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/NANDANI22/LeetCodeJava/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
