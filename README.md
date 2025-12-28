@@ -44,6 +44,7 @@
 | [2062-count-vowel-substrings-of-a-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/NANDANI22/LeetCodeJava/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/NANDANI22/LeetCodeJava/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NANDANI22/LeetCodeJava/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/NANDANI22/LeetCodeJava/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -93,4 +94,12 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Greedy
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/NANDANI22/LeetCodeJava/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/NANDANI22/LeetCodeJava/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
