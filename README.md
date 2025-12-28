@@ -42,6 +42,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/NANDANI22/LeetCodeJava/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NANDANI22/LeetCodeJava/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2399-check-distances-between-same-letters](https://github.com/NANDANI22/LeetCodeJava/tree/master/2399-check-distances-between-same-letters) |
 ## Counting
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/2000-reverse-prefix-of-word) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
