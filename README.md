@@ -30,6 +30,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NANDANI22/LeetCodeJava/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/NANDANI22/LeetCodeJava/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/NANDANI22/LeetCodeJava/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2399-check-distances-between-same-letters](https://github.com/NANDANI22/LeetCodeJava/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/2404-most-frequent-even-element) |
 ## String
@@ -50,6 +51,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NANDANI22/LeetCodeJava/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/NANDANI22/LeetCodeJava/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/NANDANI22/LeetCodeJava/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2399-check-distances-between-same-letters](https://github.com/NANDANI22/LeetCodeJava/tree/master/2399-check-distances-between-same-letters) |
 ## Counting
 |  |
@@ -105,4 +107,5 @@
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NANDANI22/LeetCodeJava/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/NANDANI22/LeetCodeJava/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 <!---LeetCode Topics End-->
