@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/NANDANI22/LeetCodeJava/tree/master/0053-maximum-subarray) |
 | [0575-distribute-candies](https://github.com/NANDANI22/LeetCodeJava/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/NANDANI22/LeetCodeJava/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NANDANI22/LeetCodeJava/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -111,4 +112,12 @@
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NANDANI22/LeetCodeJava/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/NANDANI22/LeetCodeJava/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/NANDANI22/LeetCodeJava/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/NANDANI22/LeetCodeJava/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
