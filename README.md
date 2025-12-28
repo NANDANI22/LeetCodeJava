@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0001-two-sum) |
+| [0290-word-pattern](https://github.com/NANDANI22/LeetCodeJava/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/NANDANI22/LeetCodeJava/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/NANDANI22/LeetCodeJava/tree/master/0575-distribute-candies) |
 | [0804-unique-morse-code-words](https://github.com/NANDANI22/LeetCodeJava/tree/master/0804-unique-morse-code-words) |
@@ -30,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/NANDANI22/LeetCodeJava/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/NANDANI22/LeetCodeJava/tree/master/0389-find-the-difference) |
 | [0804-unique-morse-code-words](https://github.com/NANDANI22/LeetCodeJava/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/0819-most-common-word) |
