@@ -4,7 +4,7 @@ class Solution {
         while(first <= last){
             int mid = first + (last - first)/2;
             if(nums[mid] == target) return mid;
-            else if(nums[first] <= nums[mid]){
+            else if(nums[first] <= nums[mid]){//left sorted array
                 if(nums[first]<= target && target < nums[mid]){
                     last = mid -1;
                 }
@@ -12,7 +12,7 @@ class Solution {
                     first = mid +1;
                 }
             }
-            else{
+            else{//right sorted array
                 if(nums[mid] < target && target <= nums[last]){
                     first = mid +1;
                 }
