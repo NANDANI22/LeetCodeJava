@@ -15,6 +15,7 @@
 | [0804-unique-morse-code-words](https://github.com/NANDANI22/LeetCodeJava/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/NANDANI22/LeetCodeJava/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1732-find-the-highest-altitude](https://github.com/NANDANI22/LeetCodeJava/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -117,6 +118,7 @@
 | [0704-binary-search](https://github.com/NANDANI22/LeetCodeJava/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NANDANI22/LeetCodeJava/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/NANDANI22/LeetCodeJava/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Math
 |  |
 | ------- |
