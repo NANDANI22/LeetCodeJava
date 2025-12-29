@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/NANDANI22/LeetCodeJava/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0169-majority-element) |
 | [0575-distribute-candies](https://github.com/NANDANI22/LeetCodeJava/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/NANDANI22/LeetCodeJava/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/NANDANI22/LeetCodeJava/tree/master/0704-binary-search) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/NANDANI22/LeetCodeJava/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/NANDANI22/LeetCodeJava/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/NANDANI22/LeetCodeJava/tree/master/0575-distribute-candies) |
@@ -80,6 +82,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0169-majority-element) |
 | [0819-most-common-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/0819-most-common-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/NANDANI22/LeetCodeJava/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -96,6 +99,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/NANDANI22/LeetCodeJava/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/NANDANI22/LeetCodeJava/tree/master/0645-set-mismatch) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NANDANI22/LeetCodeJava/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -157,6 +161,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/NANDANI22/LeetCodeJava/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
