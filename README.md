@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/NANDANI22/LeetCodeJava/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/NANDANI22/LeetCodeJava/tree/master/0128-longest-consecutive-sequence) |
@@ -154,6 +155,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0011-container-with-most-water) |
 | [0349-intersection-of-two-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/2000-reverse-prefix-of-word) |
@@ -172,6 +174,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/NANDANI22/LeetCodeJava/tree/master/0409-longest-palindrome) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NANDANI22/LeetCodeJava/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
