@@ -22,6 +22,7 @@
 | [0575-distribute-candies](https://github.com/NANDANI22/LeetCodeJava/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/NANDANI22/LeetCodeJava/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/NANDANI22/LeetCodeJava/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/NANDANI22/LeetCodeJava/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NANDANI22/LeetCodeJava/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/NANDANI22/LeetCodeJava/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/0819-most-common-word) |
@@ -216,6 +217,7 @@
 | [0410-split-array-largest-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NANDANI22/LeetCodeJava/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/NANDANI22/LeetCodeJava/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/NANDANI22/LeetCodeJava/tree/master/1732-find-the-highest-altitude) |
 ## Number Theory
 |  |
