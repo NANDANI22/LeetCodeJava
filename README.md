@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NANDANI22/LeetCodeJava/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/NANDANI22/LeetCodeJava/tree/master/0575-distribute-candies) |
@@ -137,6 +138,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/NANDANI22/LeetCodeJava/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/NANDANI22/LeetCodeJava/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/NANDANI22/LeetCodeJava/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/NANDANI22/LeetCodeJava/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -182,6 +184,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/NANDANI22/LeetCodeJava/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0410-split-array-largest-sum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/NANDANI22/LeetCodeJava/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NANDANI22/LeetCodeJava/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -201,9 +204,11 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/NANDANI22/LeetCodeJava/tree/master/0053-maximum-subarray) |
+| [0410-split-array-largest-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NANDANI22/LeetCodeJava/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/NANDANI22/LeetCodeJava/tree/master/1732-find-the-highest-altitude) |
