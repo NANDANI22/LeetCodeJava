@@ -169,6 +169,7 @@
 | [0042-trapping-rain-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/NANDANI22/LeetCodeJava/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
@@ -235,4 +236,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/NANDANI22/LeetCodeJava/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
