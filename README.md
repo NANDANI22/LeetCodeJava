@@ -13,6 +13,7 @@
 | [0053-maximum-subarray](https://github.com/NANDANI22/LeetCodeJava/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/NANDANI22/LeetCodeJava/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/NANDANI22/LeetCodeJava/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0410-split-array-largest-sum) |
@@ -211,6 +212,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/NANDANI22/LeetCodeJava/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NANDANI22/LeetCodeJava/tree/master/0560-subarray-sum-equals-k) |
