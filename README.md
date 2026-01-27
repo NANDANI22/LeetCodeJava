@@ -244,6 +244,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/NANDANI22/LeetCodeJava/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/NANDANI22/LeetCodeJava/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/NANDANI22/LeetCodeJava/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NANDANI22/LeetCodeJava/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/NANDANI22/LeetCodeJava/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/NANDANI22/LeetCodeJava/tree/master/0206-reverse-linked-list) |
@@ -253,5 +254,6 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/NANDANI22/LeetCodeJava/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/NANDANI22/LeetCodeJava/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/NANDANI22/LeetCodeJava/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/NANDANI22/LeetCodeJava/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
