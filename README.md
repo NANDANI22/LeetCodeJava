@@ -28,6 +28,7 @@
 | [0819-most-common-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/NANDANI22/LeetCodeJava/tree/master/0875-koko-eating-bananas) |
+| [0941-valid-mountain-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0941-valid-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NANDANI22/LeetCodeJava/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NANDANI22/LeetCodeJava/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1732-find-the-highest-altitude](https://github.com/NANDANI22/LeetCodeJava/tree/master/1732-find-the-highest-altitude) |
