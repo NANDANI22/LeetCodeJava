@@ -87,6 +87,7 @@
 | [0771-jewels-and-stones](https://github.com/NANDANI22/LeetCodeJava/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/NANDANI22/LeetCodeJava/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/0819-most-common-word) |
+| [0844-backspace-string-compare](https://github.com/NANDANI22/LeetCodeJava/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/NANDANI22/LeetCodeJava/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -174,6 +175,7 @@
 | [0141-linked-list-cycle](https://github.com/NANDANI22/LeetCodeJava/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0844-backspace-string-compare](https://github.com/NANDANI22/LeetCodeJava/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/NANDANI22/LeetCodeJava/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
@@ -181,10 +183,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/NANDANI22/LeetCodeJava/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/NANDANI22/LeetCodeJava/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/2000-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/NANDANI22/LeetCodeJava/tree/master/0844-backspace-string-compare) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NANDANI22/LeetCodeJava/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/NANDANI22/LeetCodeJava/tree/master/2169-count-operations-to-obtain-zero) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2243-calculate-digit-sum-of-a-string) |
