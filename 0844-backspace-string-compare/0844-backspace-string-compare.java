@@ -9,7 +9,7 @@ class Solution {
             else if(!st1.isEmpty()) st1.pop();
         }
         for(int i=0; i<t.length(); i++){
-            char ch = s.charAt(i);
+            char ch = t.charAt(i);
             if(ch != '#') st2.push(ch);
             else if(!st2.isEmpty()) st2.pop();
         }
