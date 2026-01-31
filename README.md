@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/NANDANI22/LeetCodeJava/tree/master/0053-maximum-subarray) |
@@ -172,6 +173,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/NANDANI22/LeetCodeJava/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0349-intersection-of-two-arrays) |
