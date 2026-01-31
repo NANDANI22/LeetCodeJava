@@ -143,6 +143,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/NANDANI22/LeetCodeJava/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/NANDANI22/LeetCodeJava/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/NANDANI22/LeetCodeJava/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/NANDANI22/LeetCodeJava/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/NANDANI22/LeetCodeJava/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/NANDANI22/LeetCodeJava/tree/master/0367-valid-perfect-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
