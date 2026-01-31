@@ -8,13 +8,10 @@ class Solution {
             continue;
         }
          long count = 1;
-        
-        
             while(set.contains(++a)){
                 count++;
             }
             max = Math.max(max,count);
-        
        } 
        return (int)max;
     }
