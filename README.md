@@ -159,6 +159,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NANDANI22/LeetCodeJava/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/NANDANI22/LeetCodeJava/tree/master/0050-powx-n) |
 | [0367-valid-perfect-square](https://github.com/NANDANI22/LeetCodeJava/tree/master/0367-valid-perfect-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -268,5 +269,6 @@
 | [0021-merge-two-sorted-lists](https://github.com/NANDANI22/LeetCodeJava/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/NANDANI22/LeetCodeJava/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/NANDANI22/LeetCodeJava/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/NANDANI22/LeetCodeJava/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/NANDANI22/LeetCodeJava/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
