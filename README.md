@@ -18,6 +18,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/NANDANI22/LeetCodeJava/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NANDANI22/LeetCodeJava/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/NANDANI22/LeetCodeJava/tree/master/0575-distribute-candies) |
@@ -59,6 +60,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/NANDANI22/LeetCodeJava/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/NANDANI22/LeetCodeJava/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/NANDANI22/LeetCodeJava/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NANDANI22/LeetCodeJava/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/NANDANI22/LeetCodeJava/tree/master/0575-distribute-candies) |
@@ -191,6 +193,7 @@
 | [0042-trapping-rain-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/NANDANI22/LeetCodeJava/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NANDANI22/LeetCodeJava/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/NANDANI22/LeetCodeJava/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/NANDANI22/LeetCodeJava/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/NANDANI22/LeetCodeJava/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/2000-reverse-prefix-of-word) |
@@ -255,6 +258,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/NANDANI22/LeetCodeJava/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
