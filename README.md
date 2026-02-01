@@ -189,6 +189,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/NANDANI22/LeetCodeJava/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/NANDANI22/LeetCodeJava/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/NANDANI22/LeetCodeJava/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/NANDANI22/LeetCodeJava/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/2000-reverse-prefix-of-word) |
@@ -273,4 +274,12 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/NANDANI22/LeetCodeJava/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/NANDANI22/LeetCodeJava/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/NANDANI22/LeetCodeJava/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/NANDANI22/LeetCodeJava/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/NANDANI22/LeetCodeJava/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
