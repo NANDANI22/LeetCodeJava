@@ -195,6 +195,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/NANDANI22/LeetCodeJava/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/NANDANI22/LeetCodeJava/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/NANDANI22/LeetCodeJava/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/NANDANI22/LeetCodeJava/tree/master/0901-online-stock-span) |
 | [1544-make-the-string-great](https://github.com/NANDANI22/LeetCodeJava/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/2000-reverse-prefix-of-word) |
 ## Simulation
@@ -259,6 +260,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/NANDANI22/LeetCodeJava/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/NANDANI22/LeetCodeJava/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -284,9 +286,14 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/NANDANI22/LeetCodeJava/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NANDANI22/LeetCodeJava/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/NANDANI22/LeetCodeJava/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/NANDANI22/LeetCodeJava/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NANDANI22/LeetCodeJava/tree/master/0232-implement-queue-using-stacks) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/NANDANI22/LeetCodeJava/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
