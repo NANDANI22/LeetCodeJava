@@ -100,6 +100,7 @@
 | [0389-find-the-difference](https://github.com/NANDANI22/LeetCodeJava/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/NANDANI22/LeetCodeJava/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/NANDANI22/LeetCodeJava/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/NANDANI22/LeetCodeJava/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/NANDANI22/LeetCodeJava/tree/master/0844-backspace-string-compare) |
@@ -329,4 +330,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/NANDANI22/LeetCodeJava/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
