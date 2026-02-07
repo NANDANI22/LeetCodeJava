@@ -23,6 +23,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/NANDANI22/LeetCodeJava/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/NANDANI22/LeetCodeJava/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/NANDANI22/LeetCodeJava/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0410-split-array-largest-sum) |
@@ -200,6 +201,7 @@
 | [0027-remove-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/NANDANI22/LeetCodeJava/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/NANDANI22/LeetCodeJava/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/NANDANI22/LeetCodeJava/tree/master/0844-backspace-string-compare) |
