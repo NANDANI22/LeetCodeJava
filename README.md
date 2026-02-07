@@ -40,6 +40,7 @@
 | [0819-most-common-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/NANDANI22/LeetCodeJava/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/NANDANI22/LeetCodeJava/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NANDANI22/LeetCodeJava/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -154,6 +155,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/NANDANI22/LeetCodeJava/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/NANDANI22/LeetCodeJava/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/NANDANI22/LeetCodeJava/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0977-squares-of-a-sorted-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NANDANI22/LeetCodeJava/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -206,6 +208,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0844-backspace-string-compare](https://github.com/NANDANI22/LeetCodeJava/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/NANDANI22/LeetCodeJava/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/NANDANI22/LeetCodeJava/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
