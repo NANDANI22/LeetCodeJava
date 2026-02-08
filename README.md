@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/NANDANI22/LeetCodeJava/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0042-trapping-rain-water) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/NANDANI22/LeetCodeJava/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/NANDANI22/LeetCodeJava/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/NANDANI22/LeetCodeJava/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0169-majority-element) |
@@ -331,6 +333,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/NANDANI22/LeetCodeJava/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/NANDANI22/LeetCodeJava/tree/master/0046-permutations) |
@@ -345,4 +348,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/NANDANI22/LeetCodeJava/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
