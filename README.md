@@ -111,6 +111,7 @@
 | [0290-word-pattern](https://github.com/NANDANI22/LeetCodeJava/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/NANDANI22/LeetCodeJava/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/NANDANI22/LeetCodeJava/tree/master/0409-longest-palindrome) |
+| [0709-to-lower-case](https://github.com/NANDANI22/LeetCodeJava/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/NANDANI22/LeetCodeJava/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/NANDANI22/LeetCodeJava/tree/master/0804-unique-morse-code-words) |
