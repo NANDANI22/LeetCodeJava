@@ -59,6 +59,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NANDANI22/LeetCodeJava/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/NANDANI22/LeetCodeJava/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/NANDANI22/LeetCodeJava/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/NANDANI22/LeetCodeJava/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/NANDANI22/LeetCodeJava/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -122,6 +123,7 @@
 | [2062-count-vowel-substrings-of-a-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/NANDANI22/LeetCodeJava/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/NANDANI22/LeetCodeJava/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/NANDANI22/LeetCodeJava/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NANDANI22/LeetCodeJava/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -357,6 +359,7 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/NANDANI22/LeetCodeJava/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Matrix
 |  |
 | ------- |
