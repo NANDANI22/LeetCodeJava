@@ -51,6 +51,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/NANDANI22/LeetCodeJava/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/NANDANI22/LeetCodeJava/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/NANDANI22/LeetCodeJava/tree/master/2057-smallest-index-with-equal-value) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/NANDANI22/LeetCodeJava/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NANDANI22/LeetCodeJava/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/NANDANI22/LeetCodeJava/tree/master/2169-count-operations-to-obtain-zero) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2243-calculate-digit-sum-of-a-string) |
