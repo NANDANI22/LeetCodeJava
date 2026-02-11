@@ -126,6 +126,7 @@
 | [2062-count-vowel-substrings-of-a-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/NANDANI22/LeetCodeJava/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/NANDANI22/LeetCodeJava/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2129-capitalize-the-title](https://github.com/NANDANI22/LeetCodeJava/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/NANDANI22/LeetCodeJava/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NANDANI22/LeetCodeJava/tree/master/2259-remove-digit-from-number-to-maximize-result) |
