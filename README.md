@@ -24,6 +24,7 @@
 | [0085-maximal-rectangle](https://github.com/NANDANI22/LeetCodeJava/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/NANDANI22/LeetCodeJava/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/NANDANI22/LeetCodeJava/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/NANDANI22/LeetCodeJava/tree/master/0283-move-zeroes) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0078-subsets](https://github.com/NANDANI22/LeetCodeJava/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/NANDANI22/LeetCodeJava/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/NANDANI22/LeetCodeJava/tree/master/0645-set-mismatch) |
 | [2206-divide-array-into-equal-pairs](https://github.com/NANDANI22/LeetCodeJava/tree/master/2206-divide-array-into-equal-pairs) |
