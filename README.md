@@ -209,6 +209,7 @@
 | [0050-powx-n](https://github.com/NANDANI22/LeetCodeJava/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/NANDANI22/LeetCodeJava/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/NANDANI22/LeetCodeJava/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/NANDANI22/LeetCodeJava/tree/master/2169-count-operations-to-obtain-zero) |
@@ -287,6 +288,7 @@
 | [0053-maximum-subarray](https://github.com/NANDANI22/LeetCodeJava/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/NANDANI22/LeetCodeJava/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -338,6 +340,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/NANDANI22/LeetCodeJava/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/NANDANI22/LeetCodeJava/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/NANDANI22/LeetCodeJava/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -379,4 +382,8 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/NANDANI22/LeetCodeJava/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/NANDANI22/LeetCodeJava/tree/master/0085-maximal-rectangle) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
