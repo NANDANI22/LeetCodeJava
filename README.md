@@ -32,6 +32,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/NANDANI22/LeetCodeJava/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/NANDANI22/LeetCodeJava/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NANDANI22/LeetCodeJava/tree/master/0560-subarray-sum-equals-k) |
