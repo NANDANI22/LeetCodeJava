@@ -407,6 +407,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/NANDANI22/LeetCodeJava/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NANDANI22/LeetCodeJava/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NANDANI22/LeetCodeJava/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/NANDANI22/LeetCodeJava/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -418,6 +419,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/NANDANI22/LeetCodeJava/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NANDANI22/LeetCodeJava/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NANDANI22/LeetCodeJava/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/NANDANI22/LeetCodeJava/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -430,6 +432,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/NANDANI22/LeetCodeJava/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NANDANI22/LeetCodeJava/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NANDANI22/LeetCodeJava/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/NANDANI22/LeetCodeJava/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
