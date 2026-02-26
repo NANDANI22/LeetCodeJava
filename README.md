@@ -117,6 +117,7 @@
 | [0014-longest-common-prefix](https://github.com/NANDANI22/LeetCodeJava/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/NANDANI22/LeetCodeJava/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/NANDANI22/LeetCodeJava/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/NANDANI22/LeetCodeJava/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/NANDANI22/LeetCodeJava/tree/master/0389-find-the-difference) |
@@ -231,6 +232,7 @@
 | [0015-3sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/NANDANI22/LeetCodeJava/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/NANDANI22/LeetCodeJava/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/NANDANI22/LeetCodeJava/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/NANDANI22/LeetCodeJava/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/0344-reverse-string) |
