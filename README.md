@@ -28,6 +28,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/NANDANI22/LeetCodeJava/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/NANDANI22/LeetCodeJava/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/NANDANI22/LeetCodeJava/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/NANDANI22/LeetCodeJava/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0349-intersection-of-two-arrays) |
@@ -216,6 +217,7 @@
 | [0050-powx-n](https://github.com/NANDANI22/LeetCodeJava/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/NANDANI22/LeetCodeJava/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/NANDANI22/LeetCodeJava/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/NANDANI22/LeetCodeJava/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/NANDANI22/LeetCodeJava/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -286,6 +288,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/NANDANI22/LeetCodeJava/tree/master/0204-count-primes) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/NANDANI22/LeetCodeJava/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/NANDANI22/LeetCodeJava/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Divide and Conquer
@@ -315,6 +318,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/NANDANI22/LeetCodeJava/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Heap (Priority Queue)
 |  |
