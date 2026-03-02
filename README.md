@@ -222,6 +222,7 @@
 | [0066-plus-one](https://github.com/NANDANI22/LeetCodeJava/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/NANDANI22/LeetCodeJava/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/NANDANI22/LeetCodeJava/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/NANDANI22/LeetCodeJava/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -272,6 +273,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/NANDANI22/LeetCodeJava/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NANDANI22/LeetCodeJava/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -325,6 +327,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/NANDANI22/LeetCodeJava/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Heap (Priority Queue)
 |  |
