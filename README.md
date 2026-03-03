@@ -31,6 +31,7 @@
 | [0136-single-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/NANDANI22/LeetCodeJava/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/NANDANI22/LeetCodeJava/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NANDANI22/LeetCodeJava/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/NANDANI22/LeetCodeJava/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0349-intersection-of-two-arrays) |
@@ -90,6 +91,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/NANDANI22/LeetCodeJava/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/NANDANI22/LeetCodeJava/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/NANDANI22/LeetCodeJava/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/NANDANI22/LeetCodeJava/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -183,6 +185,7 @@
 | [0015-3sum](https://github.com/NANDANI22/LeetCodeJava/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/NANDANI22/LeetCodeJava/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/NANDANI22/LeetCodeJava/tree/master/0389-find-the-difference) |
