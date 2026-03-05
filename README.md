@@ -33,6 +33,7 @@
 | [0204-count-primes](https://github.com/NANDANI22/LeetCodeJava/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/NANDANI22/LeetCodeJava/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/NANDANI22/LeetCodeJava/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NANDANI22/LeetCodeJava/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -92,6 +93,7 @@
 | [0141-linked-list-cycle](https://github.com/NANDANI22/LeetCodeJava/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NANDANI22/LeetCodeJava/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/NANDANI22/LeetCodeJava/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -176,6 +178,7 @@
 | [0078-subsets](https://github.com/NANDANI22/LeetCodeJava/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/NANDANI22/LeetCodeJava/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/NANDANI22/LeetCodeJava/tree/master/0645-set-mismatch) |
 | [2206-divide-array-into-equal-pairs](https://github.com/NANDANI22/LeetCodeJava/tree/master/2206-divide-array-into-equal-pairs) |
@@ -186,6 +189,7 @@
 | [0047-permutations-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NANDANI22/LeetCodeJava/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/NANDANI22/LeetCodeJava/tree/master/0389-find-the-difference) |
@@ -206,6 +210,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/NANDANI22/LeetCodeJava/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/NANDANI22/LeetCodeJava/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/NANDANI22/LeetCodeJava/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NANDANI22/LeetCodeJava/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -228,6 +233,7 @@
 | [0069-sqrtx](https://github.com/NANDANI22/LeetCodeJava/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/NANDANI22/LeetCodeJava/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/NANDANI22/LeetCodeJava/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/1295-find-numbers-with-even-number-of-digits) |
