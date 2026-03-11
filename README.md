@@ -64,6 +64,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/NANDANI22/LeetCodeJava/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/NANDANI22/LeetCodeJava/tree/master/1732-find-the-highest-altitude) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/NANDANI22/LeetCodeJava/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -239,6 +240,7 @@
 | [0367-valid-perfect-square](https://github.com/NANDANI22/LeetCodeJava/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/NANDANI22/LeetCodeJava/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/NANDANI22/LeetCodeJava/tree/master/2169-count-operations-to-obtain-zero) |
@@ -289,6 +291,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/NANDANI22/LeetCodeJava/tree/master/0844-backspace-string-compare) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/NANDANI22/LeetCodeJava/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NANDANI22/LeetCodeJava/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/NANDANI22/LeetCodeJava/tree/master/2169-count-operations-to-obtain-zero) |
@@ -381,6 +384,7 @@
 | [0050-powx-n](https://github.com/NANDANI22/LeetCodeJava/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/NANDANI22/LeetCodeJava/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/NANDANI22/LeetCodeJava/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Design
 |  |
 | ------- |
@@ -392,6 +396,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/NANDANI22/LeetCodeJava/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NANDANI22/LeetCodeJava/tree/master/0232-implement-queue-using-stacks) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/NANDANI22/LeetCodeJava/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Data Stream
 |  |
 | ------- |
