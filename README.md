@@ -59,6 +59,7 @@
 | [0941-valid-mountain-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NANDANI22/LeetCodeJava/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/NANDANI22/LeetCodeJava/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NANDANI22/LeetCodeJava/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/NANDANI22/LeetCodeJava/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -349,6 +350,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/NANDANI22/LeetCodeJava/tree/master/1046-last-stone-weight) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NANDANI22/LeetCodeJava/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Union Find
 |  |
