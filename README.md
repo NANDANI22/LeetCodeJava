@@ -64,6 +64,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/NANDANI22/LeetCodeJava/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/NANDANI22/LeetCodeJava/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NANDANI22/LeetCodeJava/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/NANDANI22/LeetCodeJava/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NANDANI22/LeetCodeJava/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -342,6 +343,7 @@
 | [0525-contiguous-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NANDANI22/LeetCodeJava/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/NANDANI22/LeetCodeJava/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NANDANI22/LeetCodeJava/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/NANDANI22/LeetCodeJava/tree/master/1732-find-the-highest-altitude) |
 ## Number Theory
@@ -502,4 +504,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0215-kth-largest-element-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NANDANI22/LeetCodeJava/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
