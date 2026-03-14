@@ -56,6 +56,7 @@
 | [0819-most-common-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/NANDANI22/LeetCodeJava/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/NANDANI22/LeetCodeJava/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/NANDANI22/LeetCodeJava/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0977-squares-of-a-sorted-array) |
@@ -114,6 +115,7 @@
 | [0771-jewels-and-stones](https://github.com/NANDANI22/LeetCodeJava/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/NANDANI22/LeetCodeJava/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/NANDANI22/LeetCodeJava/tree/master/0819-most-common-word) |
+| [0904-fruit-into-baskets](https://github.com/NANDANI22/LeetCodeJava/tree/master/0904-fruit-into-baskets) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/NANDANI22/LeetCodeJava/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/NANDANI22/LeetCodeJava/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
@@ -510,5 +512,6 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NANDANI22/LeetCodeJava/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/NANDANI22/LeetCodeJava/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NANDANI22/LeetCodeJava/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
