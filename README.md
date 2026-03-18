@@ -59,6 +59,7 @@
 | [0904-fruit-into-baskets](https://github.com/NANDANI22/LeetCodeJava/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/NANDANI22/LeetCodeJava/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0941-valid-mountain-array) |
+| [0973-k-closest-points-to-origin](https://github.com/NANDANI22/LeetCodeJava/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NANDANI22/LeetCodeJava/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/NANDANI22/LeetCodeJava/tree/master/1046-last-stone-weight) |
@@ -207,6 +208,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/NANDANI22/LeetCodeJava/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/NANDANI22/LeetCodeJava/tree/master/0905-sort-array-by-parity) |
+| [0973-k-closest-points-to-origin](https://github.com/NANDANI22/LeetCodeJava/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0977-squares-of-a-sorted-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/NANDANI22/LeetCodeJava/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -247,6 +249,7 @@
 | [0268-missing-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/NANDANI22/LeetCodeJava/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/NANDANI22/LeetCodeJava/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/NANDANI22/LeetCodeJava/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/NANDANI22/LeetCodeJava/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/NANDANI22/LeetCodeJava/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -331,6 +334,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NANDANI22/LeetCodeJava/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/NANDANI22/LeetCodeJava/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/NANDANI22/LeetCodeJava/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -360,6 +364,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/NANDANI22/LeetCodeJava/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/NANDANI22/LeetCodeJava/tree/master/1046-last-stone-weight) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/NANDANI22/LeetCodeJava/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Union Find
@@ -508,10 +513,15 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/NANDANI22/LeetCodeJava/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/NANDANI22/LeetCodeJava/tree/master/0973-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NANDANI22/LeetCodeJava/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/NANDANI22/LeetCodeJava/tree/master/0904-fruit-into-baskets) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NANDANI22/LeetCodeJava/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/NANDANI22/LeetCodeJava/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
